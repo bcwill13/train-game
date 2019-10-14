@@ -1,0 +1,17 @@
+.panel-success>.panel-heading {
+    background-color: #46649C;
+    color: white;
+}
+
+.text-success {
+    color: black;
+}
+
+body {
+    background-color: #92BBFF;
+}
+
+.btn-success {
+    background-color: #46649C;
+    border-color: #46649C
+}
